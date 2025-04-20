@@ -37,7 +37,7 @@ To perform a two-sample hypothesis test (t-test) to check:
 
 ## 📁 File Included
 
-- `YULU_Project_Hypothesis_Testing.ipynb`: Goog notebook with full EDA and test
+- `YULU_Project_Hypothesis_Testing.ipynb`: Google colab notebook with full EDA and test
 
 ---
 
